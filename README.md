@@ -1,2 +1,2 @@
-# 2thegeekle.github.io
+# 2the.github.io
 new brunch )
